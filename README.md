@@ -21,7 +21,7 @@ Crowd-selling PupperCoin smart-contracts coded using Solidity. The 2 smart contr
 ## My Steps and Screen-Shots:
 
 1) Compile PupperCoin.SOL:
-    ![CompilePUP](Images/1 - compile PupperCoin.png)
+    ![CompilePUP](./Images/1 - compile PupperCoin.png)
 
 2) Compile CrownSale.SOL:
     ![CompileCS](Images/2 - compile CrowSale.png)
