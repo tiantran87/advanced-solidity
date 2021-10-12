@@ -31,7 +31,7 @@ Crowd-selling PupperCoin smart-contracts coded using Solidity. The 2 smart contr
     ![Noted Token_Address and Token_Sale_Address](Images/3.1-NotedToken_AddressandToken_Sale_Address.png)
     
 4) Deploy PupperCoinSale Contract with Token_sale_address in the At_Address section:
-   ![Deploy PupperCoinSale Contract with Token_sale_address in the At_Address section](Images/4 - Deploy PupperCoinSale Contract with Token_sale_address in the At_Address section.png) 
+   ![Deploy PupperCoinSale Contract with Token_sale_address in the At_Address section](Images/4-DeployPupperCoinSaleContractwithToken_sale_addressintheAt_Addresssection.png) 
    
 5) Import PUPCOIN Token in Purchase Wallet:
     ![Import PUPCOIN Token in Purchase Wallet](Images/5-ImportPUPCOINTokeninPurchaseWallet.png)    
